@@ -1,6 +1,6 @@
 ## Welcome 
 
-### <div align="center">My name is Zhao Bingkang. I am an IBI1 student at ZJU-UoE institute, Zhejiang University.</div>  
+### My name is Zhao Bingkang. I am an IBI1 student at ZJU-UoE institute, Zhejiang University
   
 
 <div align="center">
