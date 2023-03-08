@@ -14,29 +14,18 @@
 - I love Pokemon!!!!!   
   
 
-Here is a picture I took while watching birds  
+- Here is a picture I took while watching birds  
   
 
 <div align="center">
-<img src="https://github.com/BiancoChiu/image-host/blob/main/棕头鸦雀.jpg" align="center" height="" width="800" />
+<img src="https://github.com/BiancoChiu/image-host/blob/main/zongtouyaque.jpg" align="center" height="" width="800" />
 </div>  
   
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
 
 
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
